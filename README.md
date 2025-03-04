@@ -1,0 +1,1 @@
+![test workflow](https://github.com/rajithaeyee/result-tuple/actions/workflows/test.yml/badge.svg)
