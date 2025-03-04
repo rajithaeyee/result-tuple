@@ -1,6 +1,6 @@
 {
   "name": "result-tuple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility library implementing the [result, error] pattern for JavaScript/TypeScript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

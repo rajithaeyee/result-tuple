@@ -27,8 +27,8 @@ if (error) {
 
 - **Fully type-safe** with complete TypeScript support
 - **Sync and async** function support
-- **Zero dependencies** and tiny footprint (<2KB minified)
-- **Simple, intuitive API** that's easy to learn
+- **Zero dependencies** and lightweight as hell
+- **Simple, intuitive API** and easy to adopt
 - **Well-tested** with 100% test coverage
 
 ## Installation
@@ -102,7 +102,7 @@ async function getUserInfo(userId: string) {
 }
 ```
 
-## API Reference
+## API Reference with Examples
 
 ### Core Functions
 
