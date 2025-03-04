@@ -1,0 +1,8 @@
+/src
+/node_modules
+
+.env
+
+package-lock.json
+tsconfig.json
+tsup.config.ts
