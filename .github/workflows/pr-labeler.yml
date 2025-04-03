@@ -1,0 +1,12 @@
+name: Test SmartPR Labeler
+on:
+  pull_request:
+    types: [opened, edited]
+
+jobs:
+  label:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: rajithaeyee/smart-pr-labeler@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
