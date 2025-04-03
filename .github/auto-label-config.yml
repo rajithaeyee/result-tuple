@@ -1,0 +1,7 @@
+bug:
+  - "*bug*"
+  - "fix: *"
+
+feature:
+  - "*feature*"
+  - "feat: *"
