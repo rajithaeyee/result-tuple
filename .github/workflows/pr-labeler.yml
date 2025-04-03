@@ -9,4 +9,4 @@ jobs:
     steps:
       - uses: rajithaeyee/smart-pr-labeler@main
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOKEN }}
